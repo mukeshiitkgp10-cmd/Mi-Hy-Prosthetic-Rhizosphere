@@ -41,8 +41,16 @@ To transition this technology from the laboratory to public architecture and mar
 <table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./images/milan_spika.jpg" alt="SPIKA Installation at Milan Triennale" width="100%" style="border-radius: 8px;"/>
-      <br />
+      <img width="4284" height="5712" alt="IMG_4583" src="https://github.com/user-attachments/assets/3e752ef1-a511-4c5c-b6ed-4d501bbfd2ac" />
+<img width="4284" height="5712" alt="IMG_4497" src="https://github.com/user-attachments/assets/58d684d9-0c13-4f9d-b2aa-bb8b34b5859b" />
+<img width="4284" height="5712" alt="IMG_4486" src="https://github.com/user-attachments/assets/52c1d712-5b2c-4b28-8b9f-7142179184df" />
+<img width="4284" height="5712" alt="IMG_4483" src="https://github.com/user-attachments/assets/2a4fe2d1-8cff-4419-98c7-d1908e5cf85e" />
+
+    <img width="2316" height="3088" alt="IMG_4833" src="https://github.com/user-attachments/assets/783d77c9-65f7-4556-b178-7ac3982713c0" />
+<img width="4032" height="3024" alt="IMG_4433" src="https://github.com/user-attachments/assets/e6848a63-fdd3-4ed3-ae7a-62e5596884ef" />
+<img width="3459" height="2808" alt="IMG_4432" src="https://github.com/user-attachments/assets/edbe17a5-8cb0-4932-a75a-121734ce9b1f" />
+<img width="4284" height="5712" alt="IMG_4428" src="https://github.com/user-attachments/assets/f55e12c9-50c6-4afb-a1ab-83b3ba0dc624" />
+
       <b>SPIKA • Milan Triennale</b>
       <p><i>Managed the technical functionality and MFC power-deficit resolutions for a highly visible, illuminated bio-hydroponics tower showcasing circular nitrogen cycling[cite: 10].</i></p>
     </td>
