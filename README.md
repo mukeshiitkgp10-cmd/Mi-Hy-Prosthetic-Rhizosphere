@@ -40,7 +40,10 @@ To transition this technology from the laboratory to public architecture and mar
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="33%" valign="top" align="left">
+      <img width="4032" height="3024" alt="IMG_4644" src="https://github.com/user-attachments/assets/2b735466-66a0-46c4-a7a6-0479c2373653" />
+<img width="4284" height="5712" alt="IMG_4636" src="https://github.com/user-attachments/assets/f61ee0bc-8079-4de6-8b90-767e525f544b" />
+
       <img width="4284" height="5712" alt="IMG_4583" src="https://github.com/user-attachments/assets/3e752ef1-a511-4c5c-b6ed-4d501bbfd2ac" />
 <img width="4284" height="5712" alt="IMG_4497" src="https://github.com/user-attachments/assets/58d684d9-0c13-4f9d-b2aa-bb8b34b5859b" />
 <img width="4284" height="5712" alt="IMG_4486" src="https://github.com/user-attachments/assets/52c1d712-5b2c-4b28-8b9f-7142179184df" />
