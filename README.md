@@ -54,23 +54,6 @@ To transition this technology from the laboratory to public architecture and mar
 <img width="3459" height="2808" alt="IMG_4432" src="https://github.com/user-attachments/assets/edbe17a5-8cb0-4932-a75a-121734ce9b1f" />
 <img width="4284" height="5712" alt="IMG_4428" src="https://github.com/user-attachments/assets/f55e12c9-50c6-4afb-a1ab-83b3ba0dc624" />
 
-      <b>SPIKA • Milan Triennale</b>
-      <p><i>Managed the technical functionality and MFC power-deficit resolutions for a highly visible, illuminated bio-hydroponics tower showcasing circular nitrogen cycling[cite: 10].</i></p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./images/eic_brussels.jpg" alt="European Innovation Council 2026" width="100%" style="border-radius: 8px;"/>
-      <br />
-      <b>EIC 2026 • Brussels</b>
-      <p><i>Represented the Mi-Hy portfolio and delivered live technical demonstrations to deep-tech entrepreneurs, venture capitalists, and policymakers[cite: 10].</i></p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./images/fab25_czech.jpg" alt="Fab 25 Demonstration" width="100%" style="border-radius: 8px;"/>
-      <br />
-      <b>Fab 25 • Czech Republic</b>
-      <p><i>Delivered hands-on demonstrations of MFC functionality, distilling high-level electrochemical concepts into accessible applications for global maker ecosystems[cite: 10].</i></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
